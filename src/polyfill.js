@@ -1,0 +1,13 @@
+// Promise
+import 'core-js/features/promise';
+// Fetch
+import 'whatwg-fetch';
+// Object
+import 'core-js/features/object/assign';
+// String
+import 'core-js/features/string/includes';
+// Array
+import 'core-js/features/array/find';
+import 'core-js/features/array/for-each';
+import 'core-js/features/array/find-index';
+import 'core-js/features/array/includes';
